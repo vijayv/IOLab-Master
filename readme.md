@@ -1,7 +1,7 @@
 # Welcome to IOLab Master Repository
 ---
 ## Objective
-This repository will be the provide material necessary to teach [Information Organization Laboratory](http://www.ischool.berkeley.edu/courses/i290ta) (or other similar [The Discipline of Organizing](http://disciplineoforganizing.org/) Course) course.
+This repository will provide the material necessary to teach [Information Organization Laboratory](http://www.ischool.berkeley.edu/courses/i290ta) (or other similar [The Discipline of Organizing](http://disciplineoforganizing.org/) Course) course.
 
 ## Repository Structure
 The repository consists of five top level directories and one main organizing document that provides the mapping between course topics and the files within the repositories.
@@ -20,10 +20,8 @@ The contents of each directory are explained below:
 - **Teaching Resources:** Contains material for instructors. These may be PDFs, HTML, or Microsoft Word Documents containing links to external documents that are related to the class as a whole (Material related to a particular course topic should go in the Teaching Resources.docx file with each lecture directory).
 
 ## How to use
-### Teachers
-
-### Contributors
-
-### Students
+- Teachers
+- [Contributors](Admin\ Instructions/Contributors.md)
+- Students
 
 ## FAQ
