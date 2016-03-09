@@ -1,7 +1,7 @@
 # Welcome to IOLab Master Repository
 ---
 ## Objective
-This repository will provide the material necessary to teach [Information Organization Laboratory](http://www.ischool.berkeley.edu/courses/i290ta) (or other similar [The Discipline of Organizing](http://disciplineoforganizing.org/) Course) course.
+This repository will provide the material necessary to teach [Information Organization Laboratory](http://www.ischool.berkeley.edu/courses/i290ta) (or other similar [The Discipline of Organizing](http://disciplineoforganizing.org/) inspired course).
 
 ## Repository Structure
 The repository consists of five top level directories and one main organizing document that provides the mapping between course topics and the files within the repositories.
